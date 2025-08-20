@@ -1,4 +1,4 @@
-# YUV-Video-Overlay-Ittiam-introductory-exercise
+# YUV-Video-Overlay-ittiam-introductory-exercise
 An introductory exercise at ittiam to get familiarised with YUV frames and general video and image formats.
 
 We were given a YUV $1280 \times 720$ video file (bee on a sunflower), and a YUV $100 \times 160$ file (ittiam logo).
